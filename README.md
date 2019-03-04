@@ -1,4 +1,4 @@
 # github-demo
 A github playground
 
-Trine Lund
+Trine g Lund
